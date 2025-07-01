@@ -7,5 +7,6 @@
 - 💻 Actively competing on Zindi and DrivenData as we work together to solve problems using Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/joshua-amayo-82752514a/
 - Click on the 'Zindi-Credit-Scoring' folder to see some of my work! https://github.com/joshamayo7/Zindi-Credit-Scoring
+- Follow my blog here- https://medium.com/@joshamayo7
 
 
