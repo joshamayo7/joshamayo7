@@ -6,6 +6,6 @@
 - 🌱 I’m passionate about A/B Testing and Causal inference and I aim to add in some projects on these.
 - 💻 Actively competing on Zindi and DrivenData as we work together to solve problems using Data Science.
 - 📫 How to reach me: https://www.linkedin.com/in/joshua-amayo-82752514a/
-- Click on the 'Zindi-Credit-Scoring' folder to see some of my work!
+- Click on the 'Zindi-Credit-Scoring' folder to see some of my work! https://github.com/joshamayo7/Zindi-Credit-Scoring
 
 
